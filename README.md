@@ -2,8 +2,6 @@
 
 This repository contains materials for the Informatics Honours Project Prep Workshop given by InfPals Leaders in Week 6 semester 2 school year 2022/23.
 
-Sofware used to compile Latex - [Overleaf](https://www.overleaf.com/).
-
 Matrials consists of:
 - Main Presentation with Prompt Questions
 
